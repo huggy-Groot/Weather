@@ -30,7 +30,6 @@
   flex: 1 1;
   margin-right: 15px;
   text-align: right;
-  color: #757575;
 }
 
 .min-max {
@@ -56,7 +55,7 @@
 }
 
 .daily-details-grid-item label:first-child {
-  color: #212121;
+  color: #212120;
   font-weight: 600;
 }
 
